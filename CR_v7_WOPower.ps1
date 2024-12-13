@@ -1,4 +1,5 @@
 #cr_v6_WOSLPversion 1 :::For Offline PCs, no sleep settings:: 2024 Dec 13
+#ref##credit to orignal owner of those codes
 
 
 
